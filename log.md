@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 22, 2018
+### Day 1: January 22, 2018
 
 **Today's Progress**: Publish an npm package module for React and developed a simple multi view modal also for ReactJS.
 
