@@ -8,3 +8,11 @@
 
 **Link to work:** [Input field component](https://www.npmjs.com/package/react-input-field-with-label)
 **Link to work:** [Multiview Modal](https://github.com/LukeMwila/modal-in-overlay-with-various-screen-views)
+
+### Day 2: January 23, 2018
+
+**Today's Progress**: Getting a better understanding of async functions in JS and making use of the await keyword.
+
+**Thoughts:** It's definitely a useful way to handle Promises in JS.
+
+**Link to work:** [Aync & Await Functions in JS](https://github.com/LukeMwila/async-await-functions)
