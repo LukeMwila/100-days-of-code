@@ -16,3 +16,9 @@
 **Thoughts:** It's definitely a useful way to handle Promises in JS.
 
 **Link to work:** [Aync & Await Functions in JS](https://github.com/LukeMwila/async-await-functions)
+
+### Day 3: January 24, 2018
+
+**Today's Progress**: Added order button that is active when there\'s at least one ingredient in the burger.
+
+**Link to work:** [Burger Builder Project](https://github.com/LukeMwila/Burger-Builder)
