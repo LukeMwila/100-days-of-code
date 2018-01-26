@@ -22,3 +22,9 @@
 **Today's Progress**: Added order button that is active when there\'s at least one ingredient in the burger.
 
 **Link to work:** [Burger Builder Project](https://github.com/LukeMwila/Burger-Builder)
+
+### Day 4: January 26, 2018
+
+**Today's Progress**: Developing a simple text editor application in Java.
+
+**Link to work:** [Text Editor](https://github.com/LukeMwila/TextEditor)
