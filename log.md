@@ -28,3 +28,9 @@
 **Today's Progress**: Developing a simple text editor application in Java.
 
 **Link to work:** [Text Editor](https://github.com/LukeMwila/TextEditor)
+
+### Day 5: January 27, 2018
+
+**Today's Progress**: Created another npm package module for React. Developed a date picker for input fields.
+ 
+**Link to work:** [React Calendar Date Selector](https://github.com/LukeMwila/react-date-selector)
