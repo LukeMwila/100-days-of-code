@@ -34,3 +34,9 @@
 **Today's Progress**: Created another npm package module for React. Developed a date picker for input fields.
  
 **Link to work:** [React Calendar Date Selector](https://github.com/LukeMwila/react-date-selector)
+
+### Day 6: January 28, 2018
+
+**Today's Progress**: Contiued working on the burger builder project. Currently working on a popup modal that showsup when a user clicks on the order button, after adding at least one ingredient to the burger..
+ 
+**Link to work:** [Burger Builder Project](https://github.com/LukeMwila/Burger-Builder)
